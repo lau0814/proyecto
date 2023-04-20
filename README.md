@@ -1,2 +1,2 @@
-# proyecto
+# final-syintesis-project
 Created with CodeSandbox
