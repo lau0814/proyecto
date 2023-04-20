@@ -4,11 +4,11 @@ html {
 
 body {
   margin: 0;
-  background-color: #ffffff;
+  background-color: black;
 }
 
 header h1 {
-  background-image: url(../imagenes/others/galaxia2.jpeg);
+  background-image: url(../imagenes/others/galaxia4.jpeg);
   color: white;
   padding: 2rem 0rem;
   font-size: 3rem;
